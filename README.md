@@ -161,4 +161,3 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 * Built in 5 hours as a **Quality-First** POC for lead-generation workflows.
 * Powered by [Groq](https://groq.com) `gemma-2-9b-it` model.
-* Sudhir
